@@ -1,4 +1,2 @@
 # Visualization-using-Python
-# pip install pandas
-# pip insall numpy
-#pip install seaborn
+how to plot data using seaborn library . Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical analysis
